@@ -1,0 +1,13 @@
+#Ambiente virtual: pode ser recriado em outro Pc
+.venv/
+
+#Configurações locais do Pycharm
+.idea/
+
+#Arquivos gerados pelo Python
+__pycache__/
+*.pyc
+
+#Arquivos temporários do Windows
+Thumbs.db
+Desktop.ini
